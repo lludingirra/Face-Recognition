@@ -8,6 +8,8 @@ Before running the project, ensure that the following libraries and tools are in
 - OpenCV
 - dlib
 - face_recognition
+- pickle
+- datetime
 - numpy
 - cvzone
 - sqlite3
