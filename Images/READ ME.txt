@@ -1,0 +1,2 @@
+Upload the images to be used for face recognition here. 
+(The size of the images must be (216, 216, 3).)
